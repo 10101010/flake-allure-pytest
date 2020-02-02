@@ -1,0 +1,1 @@
+# flake-allure-pytest
