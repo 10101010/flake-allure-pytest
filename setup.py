@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 
-setup_requirements = ['pytest-runner', ]
+setup_requirements = ['pytest-runner', 'flake8-plugin-utils']
 
 
 setup(
