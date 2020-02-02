@@ -1,4 +1,4 @@
-# flake-allure-pytest
+# flake8-allure-pytest
 
 A flake8 plugin that checks for allure decorators in your pytest-based test code
 
